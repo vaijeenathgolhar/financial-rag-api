@@ -258,7 +258,7 @@ Example:
 
 **Vaijeenath Golhar**
 
-* LinkedIn: https://linkedin.com/in/your-profile
+* LinkedIn:https://www.linkedin.com/in/vaijeenath-golhar-6a8589315
 * GitHub: https://github.com/vaijeenathgolhar
 
 ---
