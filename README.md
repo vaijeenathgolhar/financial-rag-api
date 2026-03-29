@@ -256,10 +256,10 @@ Example:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vaijeenath Golhar**
 
 * LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/vaijeenathgolhar
 
 ---
 
